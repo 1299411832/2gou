@@ -84,7 +84,8 @@
 	"enableChristmas": false,
 	"enablePasswordAccess": true,
 	"passwordAccessCategories": [
-		"Chara"
+		"Chara",
+		"Games"
 	],
 	"passwordAccessPassword": "123456",
 	"beian": {
