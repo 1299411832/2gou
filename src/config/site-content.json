@@ -32,9 +32,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "1b456fb6e23ba7d6",
+			"url": "/images/background/1b456fb6e23ba7d6.gif"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "1b456fb6e23ba7d6",
 	"socialButtons": [
 		{
 			"id": "juejin",
@@ -63,6 +67,13 @@
 			"value": "https://t.miti.cc.cd",
 			"label": "音乐星球",
 			"order": 4
+		},
+		{
+			"id": "button-1787827476706",
+			"type": "link",
+			"value": "https://t.miti.cc.cd",
+			"label": "导航",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
