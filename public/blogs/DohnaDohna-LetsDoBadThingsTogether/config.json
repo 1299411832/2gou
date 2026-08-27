@@ -20,6 +20,6 @@
       "url": "https://pan.quark.cn/s/f6518c458969"
     }
   ],
-  "passwordProtected": false,
-  "password": ""
+  "passwordProtected": true,
+  "password": "123456"
 }
