@@ -32,13 +32,9 @@
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "54e6139891d70bb0",
-			"url": "/images/background/54e6139891d70bb0.jpg"
 		}
 	],
-	"currentBackgroundImageId": "54e6139891d70bb0",
+	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
 			"id": "juejin",
