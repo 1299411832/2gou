@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "[贰狗日志]",
-		"description": "任贰狗的个人博客，发布一些日常收集来的软件、游戏，还有一些乱七八糟瞎折腾的研究笔记教程之类的。",
-		"username": "Ciao"
+		"title": "迷体星球",
+		"description": "手工造物、元宇宙、人工智能、社交、旅行和虚拟现实，歌手、策划、乐手集一身的星球\n",
+		"username": "迷体星球"
 	},
 	"theme": {
 		"colorBrand": "#35bfab",
@@ -26,37 +26,52 @@
 		{
 			"id": "852eccdeaa21e3b7",
 			"url": "/images/art/852eccdeaa21e3b7.png"
+		},
+		{
+			"id": "54e6139891d70bb0",
+			"url": "/images/art/54e6139891d70bb0.jpg"
 		}
 	],
-	"currentArtImageId": "852eccdeaa21e3b7",
+	"currentArtImageId": "54e6139891d70bb0",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
-		}
-	],
-	"currentBackgroundImageId": "",
-	"socialButtons": [
-		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/RT622",
-			"label": "Github",
-			"order": 3
 		},
 		{
+			"id": "54e6139891d70bb0",
+			"url": "/images/background/54e6139891d70bb0.jpg"
+		}
+	],
+	"currentBackgroundImageId": "54e6139891d70bb0",
+	"socialButtons": [
+		{
 			"id": "juejin",
-			"type": "qq",
-			"value": "/images/social-buttons/7f509f0a4c020a31.png",
+			"type": "wechat",
+			"value": "/images/social-buttons/beb34c7ad4bd9b4a.jpg",
 			"label": "稀土掘金",
+			"order": 1
+		},
+		{
+			"id": "github",
+			"type": "qq",
+			"value": "/images/social-buttons/f5aba8c0db5c43f3.jpg",
+			"label": "Github",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "Twodog@88.com",
+			"value": "1299411832@qq.com",
 			"label": "",
-			"order": 1
+			"order": 3
+		},
+		{
+			"id": "button-1787823389745",
+			"type": "link",
+			"value": "https://t.miti.cc.cd",
+			"label": "音乐星球",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
@@ -64,16 +79,14 @@
 	"isCachePem": true,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 22,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"enablePasswordAccess": true,
 	"passwordAccessCategories": [
-		"Chara",
-		"Games",
-		"blog"
+		"Chara"
 	],
-	"passwordAccessPassword": "110110",
+	"passwordAccessPassword": "123456",
 	"beian": {
 		"text": "",
 		"link": ""
