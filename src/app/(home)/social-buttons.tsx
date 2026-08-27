@@ -158,9 +158,9 @@ export default function SocialButtons() {
 
 		if (button.type === 'email' || button.type === 'wechat' || button.type === 'qq') {
 			const messageMap: Record<'email' | 'wechat' | 'qq', string> = {
-				email: '邮箱已复制到剪贴板',
-				wechat: '微信号已复制到剪贴板',
-				qq: 'QQ号已复制到剪贴板'
+				email: '迷体邮箱已复制到剪贴板',
+				wechat: '谢今朝微信号已复制到剪贴板',
+				qq: '迷体QQ号已复制到剪贴板'
 			}
 
 			const isImagePath = button.value.startsWith('/images/social-buttons/')
