@@ -11,7 +11,7 @@
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
 		"colorBorder": "#8a8a8a5e",
-		"colorCard": "#ffffff0e",
+		"colorCard": "#2904040e",
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
@@ -68,7 +68,7 @@
 	"clockShowSeconds": true,
 	"summaryInContent": true,
 	"isCachePem": true,
-	"hideEditButton": true,
+	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 22,
 	"hatFlipped": false,
